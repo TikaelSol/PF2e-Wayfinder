@@ -6,7 +6,7 @@ into the install module dialog on the Foundry Add-on Module tab.
 
 Once enabled in a world it will add several new compendiums, These all start with "Wayfinder -".  In them you'll find over a hundred new items including new spells, class features, backgrounds, and equipment.  There's also dozens of actors, complete with art.  Also included is a premade adventure for 3rd level parties.  All of this is the content from the Wayfinder #21, the Paizo fan magazine created by Paizo Fans United.  You can download a copy of the full PDF from Paizo's website here https://paizo.com/products/btq027w7?Wayfinder-21
 
-I am not the author of this content, I am making it available for Foundry VTT users with permission of the authors.  Thank you to all of you who allowed me to include your creations in this module, as well as Time Nightengale of Wayfinder for doing the legwork of contacting all the contributors and allowing me to use the Wayfinder name for the module.
+I am not the author of this content, I am making it available for Foundry VTT users with permission of the authors.  Thank you to all of you who allowed me to include your creations in this module, as well as Tim Nightengale of Wayfinder for doing the legwork of contacting all the contributors and allowing me to use the Wayfinder name for the module.
 
 # Creators and Artists
 
@@ -19,11 +19,11 @@ I am not the author of this content, I am making it available for Foundry VTT us
 | Flensclaw                                                                    | Daniel Aznavorian                    | Andrew Burch                   |
 | Heroes' Hoard: Sarkoris Scar Adventuring Items, Tools of the Reclaimers      | Andrew D. Geels and Scott Janke      |                                |
 | Heroic Legacy Backgrounds                                                    | Rigby Bendele, Bran Hagger           |                                |
-| Interested Parties                                                           | Jeremy Corff                         | Paul Chapman and Michael Tumey |
-| Interested Parties                                                           | Jeremy Corff                         | Dionisis Milonas               |
+| Interested Parties (Race for the Ettercap Crown, a Side Trek Adventure)      | Jeremy Corff                         | Paul Chapman and Michael Tumey |
+| Interested Parties (Weal or Woe)                                             | Jeremy Corff                         | Dionisis Milonas               |
 | Knefen                                                                       | Matt Duval                           | Peter Fairfax                  |
 | Knighthaunt                                                                  | Joseph Blomquist                     | Michael McNeill                |
-| Legacies of the Goblinblood War                                              | Adam Kessler                         | Todd Westcot                   |
+| Legacies of the Goblinblood War (Weal of Woe)                                | Adam Kessler                         | Todd Westcot                   |
 | Leshy, Darkblight                                                            | Matt Cavanaugh                       | Andrew DeFelice                |
 | Melacor                                                                      | Mischa Catalan                       | Chris L. Kimball               |
 | Oracles of the Final Omen: Apocalypse   Mystery                              | Jeffrey Anderson                     |                                |
@@ -36,13 +36,13 @@ I am not the author of this content, I am making it available for Foundry VTT us
 | Skillful Items for the Foolhardy Discerning Professional                     | Alex Mullenix                        |                                |
 | Soul Seeker Swarm                                                            | James Abendroth                      | James S. Austin                |
 | Spirits and Dreams - oracle’s mystery and Investigator methodology           | Edmond Genner                        |                                |
-| The Cynic’s Gambit                                                           | KM Kovalcik                          | Frank Hessefort                |
+| The Cynic’s Gambit (Weal or Woe)                                             | KM Kovalcik                          | Frank Hessefort                |
 | The Fashion of New Thassilon: Aromas of Eurythania and The Envy of Edasseril | Ryan King                            |                                |
-| Two sides of this crusade                                                    | John Holmes                          | Beatrice Pelagatti             |
+| Two sides of this crusade (Weal or Woe)                                      | John Holmes                          | Beatrice Pelagatti             |
 | Wall Watcher’s Armory                                                        | Matt Cavanaugh                       |                                |
 | Whispering Weed                                                              | Jesse Lehto                          | Clay Lewis                     |
 | Willow Fiend                                                                 | Kim Frandsen                         | Michael Jaecks                 |
-| Zeitgob                                                                      | Joshua Hennington                    | Andrew DeFelice                |
+| Zeitgob (Weal or Woe)                                                        | Joshua Hennington                    | Andrew DeFelice                |
 | Zombie, Abyssal                                                              | Tineke Bolleman                      | Tanyaporn Sangsnit             |
 
 
