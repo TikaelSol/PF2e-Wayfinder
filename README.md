@@ -4,9 +4,9 @@ You can install this module manually by pasting this link: https://raw.githubuse
 
 into the install module dialog on the Foundry Add-on Module tab.
 
-Once enabled in a world it will add several new compendiums, These all start with "Wayfinder -".  In them you'll find over a hundred new items including new spells, class features, backgrounds, and equipment.  There's also dozens of actors, complete with art.  Also included is a premade adventure for 3rd level parties.  All of this is the content from the Wayfinder #21, the Paizo fan magazine.  You can download a copy of the full PDF from Paizo's website here https://paizo.com/products/btq027w7?Wayfinder-21
+Once enabled in a world it will add several new compendiums, These all start with "Wayfinder -".  In them you'll find over a hundred new items including new spells, class features, backgrounds, and equipment.  There's also dozens of actors, complete with art.  Also included is a premade adventure for 3rd level parties.  All of this is the content from the Wayfinder #21, the Paizo fan magazine created by Paizo Fans United.  You can download a copy of the full PDF from Paizo's website here https://paizo.com/products/btq027w7?Wayfinder-21
 
-I am not the author of this content, I am making it available for Foundry VTT users with permission of the authors.  Thank you to all of you who allowed me to include your creations in this module, as well as the editorial team of Wafinder for doing the legwork of contacting all the contributors and allowing me to use the Wayfinder name for the module.
+I am not the author of this content, I am making it available for Foundry VTT users with permission of the authors.  Thank you to all of you who allowed me to include your creations in this module, as well as the editorial team of Wayfinder for doing the legwork of contacting all the contributors and allowing me to use the Wayfinder name for the module.
 
 # Creators and Artists
 
@@ -53,3 +53,6 @@ I am not the author of this content, I am making it available for Foundry VTT us
 - Some of the features included may change with future PF2e system updates, I have future proofed them as much as possible.
 
 - Currently the inline buttons to make templates are set to use the new input format which is not currently available in the public build of the PF2e system.  I expect this change to be released with PF2e 2.12.
+
+
+For issues or module feedback please create an issue here on Github, or contact me (Tikael) on the PF2e channel in the Foundry discord.  If you would like your content to be featured in a future issue of Wayfinder (and thus included in future updates to this module) submit it to Paizo Fans United during their next submission period.
