@@ -6,7 +6,7 @@ into the install module dialog on the Foundry Add-on Module tab.
 
 Once enabled in a world it will add several new compendiums, These all start with "Wayfinder -".  In them you'll find over a hundred new items including new spells, class features, backgrounds, and equipment.  There's also dozens of actors, complete with art.  Also included is a premade adventure for 3rd level parties.  All of this is the content from the Wayfinder #21, the Paizo fan magazine created by Paizo Fans United.  You can download a copy of the full PDF from Paizo's website here https://paizo.com/products/btq027w7?Wayfinder-21
 
-I am not the author of this content, I am making it available for Foundry VTT users with permission of the authors.  Thank you to all of you who allowed me to include your creations in this module, as well as the editorial team of Wayfinder for doing the legwork of contacting all the contributors and allowing me to use the Wayfinder name for the module.
+I am not the author of this content, I am making it available for Foundry VTT users with permission of the authors.  Thank you to all of you who allowed me to include your creations in this module, as well as Time Nightengale of Wayfinder for doing the legwork of contacting all the contributors and allowing me to use the Wayfinder name for the module.
 
 # Creators and Artists
 
