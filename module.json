@@ -10,7 +10,7 @@
       "entity": "Item",
       "name": "wayfinder-actions",
       "path": "./packs/wayfinder-actions.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
     {
@@ -18,7 +18,7 @@
       "entity": "Item",
       "name": "wayfinder-backgrounds",
       "path": "./packs/wayfinder-backgrounds.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
   	{
@@ -26,7 +26,7 @@
       "entity": "Actor",
       "name": "wayfinder-bestiary",
       "path": "./packs/wayfinder-bestiary.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
     {
@@ -34,7 +34,7 @@
       "entity": "Item",
       "name": "wayfinder-class-features",
       "path": "./packs/wayfinder-class-features.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
     {
@@ -42,7 +42,7 @@
       "entity": "Item",
       "name": "wayfinder-effects",
       "path": "./packs/wayfinder-effects.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
     {
@@ -50,7 +50,7 @@
       "entity": "Item",
       "name": "wayfinder-feats",
       "path": "./packs/wayfinder-feats.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
     {
@@ -58,7 +58,7 @@
       "entity": "Item",
       "name": "wayfinder-equipment",
       "path": "./packs/wayfinder-equipment.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
     {
@@ -66,7 +66,7 @@
       "entity": "Item",
       "name": "wayfinder-relic-gifts",
       "path": "./packs/wayfinder-relic-gifts.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
     {
@@ -74,7 +74,15 @@
       "entity": "Item",
       "name": "wayfinder-spells",
       "path": "./packs/wayfinder-spells.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
+      "package": "pf2e-wayfinder"
+    },
+    {
+      "label": "Wayfinder - Maps",
+      "entity": "Scene",
+      "name": "wayfinder-maps",
+      "path": "./packs/wayfinder-maps.db",
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     },
     {
@@ -82,7 +90,7 @@
       "entity": "JournalEntry",
       "name": "wayfinder-race-for-the-ettercap-crown",
       "path": "./packs/wayfinder-race-for-the-ettercap-crown.db",
-      "system": ["pf2e"],
+      "system": "pf2e",
       "package": "pf2e-wayfinder"
     }
     ],
