@@ -55,4 +55,4 @@ I am not the author of this content, I am making it available for Foundry VTT us
 - Currently the inline buttons to make templates are set to use the new input format which is not currently available in the public build of the PF2e system.  I expect this change to be released with PF2e 2.12.
 
 
-For issues or module feedback please create an issue here on Github, or contact me (Tikael) on the PF2e channel in the Foundry discord.  If you would like your content to be featured in a future issue of Wayfinder (and thus included in future updates to this module) submit it to Paizo Fans United during their next submission period.
+For issues or module feedback please create an issue here on Github, or contact me (Tikael) on the PF2e channel in the Foundry discord.  If you would like your content to be featured in a future issue of Wayfinder (and thus included in future updates to this module) submit it to Paizo Fans United during their next submission period.  I am not affiliated with Paizo nor Paizo Fans United.
