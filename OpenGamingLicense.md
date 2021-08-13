@@ -32,16 +32,26 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 15. COPYRIGHT NOTICE
 Open Game License v 1.0a © 2000, Wizards of the Coast, Inc.
+
 System Reference Document © 2000, Wizards of the Coast, Inc.; Authors: Jonathan Tweet, Monte Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+
 Pathfinder Core Rulebook (Second Edition) © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
 Pathfinder Advanced Player's Guide (Second Edition) © 2020, Paizo Inc; Authors: Logan Bonner, Lyz Liddell, and Mark Seifter.
-Pathfinder Bestiary (Second Edition) © 2019, Paizo Inc.; Authors: Alexander Augunas, Logan Bonner, Jason Bulmahn, John Compton, Paris Crenshaw, Adam Daigle, Eleanor Ferron, Leo Glass, Thurston Hillman, James Jacobs, Jason Keeley, Lyz Liddell, Ron Lundeen, Robert G. McCreary, Tim Nightengale, Stephen Radney-MacFarland, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Chris S. Sims, Jeffrey Swank, Jason Tondro, Tonya Woldridge, and Linda Zayas-Palmer. 
+
+Pathfinder Bestiary (Second Edition) © 2019, Paizo Inc.; Authors: Alexander Augunas, Logan Bonner, Jason Bulmahn, John Compton, Paris Crenshaw, Adam Daigle, Eleanor Ferron, Leo Glass, Thurston Hillman, James Jacobs, Jason Keeley, Lyz Liddell, Ron Lundeen, Robert G. McCreary, Tim Nightengale, Stephen Radney-MacFarland, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Chris S. Sims, Jeffrey Swank, Jason Tondro, Tonya Woldridge, and Linda Zayas-Palmer.
+
 Pathfinder Bestiary 2 (Second Edition) © 2020, Paizo Inc.; Authors: Alexander Augunas, Dennis Baker, Jesse Benner, Joseph Blomquist, Logan Bonner, Paris Crenshaw, Adam Daigle, Jesse Decker, Darrin Drader, Brian Duckwitz, Robert N. Emerson, Scott Fernandez, Keith Garrett, Scott Gladstein, Matthew Goodall, T.H. Gulliver, BJ Hensley, Tim Hitchcock, Vanessa Hoskins, James Jacobs, Brian R. James, Jason Keeley, John Laffan, Lyz Liddell, Colm Lundberg, Ron Lundeen, Jason Nelson, Randy Price, Jessica Redekop, Patrick Renie, Alistair Rigg, Alex Riggs, David N. Ross, David Schwartz, Mark Seifter, Amber Stewart, Jeffrey Swank, Russ Taylor, and Jason Tondro.
+
 Pathfinder Gamemastery Guide © 2020, Paizo Inc.; Authors: Alexander Augunas, Jesse Benner, John Bennett, Logan Bonner, Clinton J. Boomer, Jason Bulmahn, James Case, Paris Crenshaw, Jesse Decker, Robert N. Emerson, Eleanor Ferron, Jaym Gates, Matthew Goetz, T.H. Gulliver, Kev Hamilton, Sasha Laranoa Harving, BJ Hensley, Vanessa Hoskins, Brian R. James, Jason LeMaitre, Lyz Liddell, Luis Loza, Colm Lundberg, Ron Lundeen, Stephen Radney-MacFarland, Jessica Redekop, Alistair Rigg, Mark Seifter, Owen K.C. Stephens, Amber Stewart, Christina Stiles, Landon Winkler, and Linda Zayas-Palmer.
+
 Pathfinder Lost Omens Character Guide (Second Edition) © 2019, Paizo Inc.; Authors: John Compton, Sasha Lindley Hall, Amanda Hamon, Mike Kimmel, Luis Loza, Ron Lundeen, Matt Morris, Patchen Mortimer, Andrew Mullen, Mikhail Rekun, Micheal Sayre, Owen K.C. Stephens, Isabelle Thorne, and Linda Zayas-Palmer. Pathfinder Lost Omens Legends © 2020, Paizo Inc.; Authors: Alexander Augunas, Kate Baker, Jason Bulmahn, Alexandria Bustion, Carlos Cabrera, Calder CaDavid, Jessica Catalan, Natalie Collazo, Ryan Costello, Greg Diaz, Fabby Garza Marroquín, Jaym Gates, Alice Grizzle, Steven Hammond, Nicolas Hornyak, James Jacobs, Michelle Jones, Kristina Sisto Kindel, Aaron Lascano, Ron Lundeen, Stephanie Lundeen, Sydney Meeker, Liane Merciel, Matt Morris, Patchen Mortimer, Hilary Moon Murphy, Dennis Muldoon, Andrew Mullen, Amirali Attar Olyaee, Mikhail Rekun, Michael Sayre, Mark Seifter, Ashton Sperry, Owen K.C. Stephens, and Isabelle Thorne.
+
 Pathfinder Lost Omens World Guide (Second Edition) © 2019, Paizo Inc.; Authors: Tanya DePass, James Jacobs, Lyz Liddell, Ron Lundeen, Liane Merciel, Erik Mona, Mark Seifter,
 James L. Sutter.
+
 Pathfinder Adventure Path #147: Tomorrow Must Burn © 2019, Paizo Inc.; Authors: Ron Lundeen and Stephanie Lundeen, with Lyz Liddell and James Sutter.
+
 Wayfinder #21 © 2021, Paizo Fans United; Authors: James Abendroth, Jeffrey Anderson, Daniel Aznavorian, Nick Baumeister, Rigby Bendele, Dakota Blackwell, Joseph Blomquist, Tineke Bolleman, Brian Brunson, Jaster Catalan, Mischa Catalan, Matt Cavanaugh, Jeremy Corff, Matt Daley, Brendan Dieffenbach, Matt Duval, Douglas Edwards, Aaron Filipowich, Kim Frandsen, Andrew D. Geels, Edmond Gener, Bran Hagger, Joshua Hennington, John Holmes, Scott Janke, Adam Kessler, Ryan King, KM Kovalcik, Jesse Lehto, Jason Luke, Kailan May, Jacob W. Michaels, Alex Mullenix, Scott Nolan, Henry Pearson, Michael Ritter, Corey Roberge, Michael Robinson, Eric S. Riley, Patrick Seafield, Byron Striepe, and Andrew P. Sturtevant.
 
 This product makes use of the Pathfinder Core Rulebook (Second Edition), Pathfinder Bestiary (Second Edition), Pathfinder Bestiary 2 (Second Edition), Pathfinder Gamemastery Guide, and the Pathfinder Advanced Player’s Guide. These rules can be found online as part of the Pathfinder Roleplaying Game Reference Document at https://2e.aonprd.com/ . Open Content: The game mechanics of this game product are Open Game Content, as defined in the Open Gaming License version 1.0a Section 1(d).
