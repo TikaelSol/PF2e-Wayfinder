@@ -1,17 +1,27 @@
 {
-    "name": "pf2e-wayfinder",
-    "title": "PF2e Wayfinder",
-    "description": "The content from the Wayfinder fan magazine for Pathfinder 2e.  Contains over a hundred new items, dozens of monsters and NPCs, a premade adventure for 3rd level adventurers, new class options, and more!  Get your free copy of the PDF at paizo.com",
-    "version": "1.0.0",
-    "author": "Wayfinder team and Tikael",
-    "packs": [
+  "name": "pf2e-wayfinder",
+  "title": "PF2e Wayfinder",
+  "description": "The content from the Wayfinder fan magazine for Pathfinder 2e.  Contains over a hundred new items, dozens of monsters and NPCs, a premade adventure for 3rd level adventurers, new class options, and more!  Get your free copy of the PDF at paizo.com",
+  "author": "Wayfinder team and Tikael",
+  "authors": [],
+  "url": "https://github.com/TikaelSol/PF2e-Wayfinder",
+  "flags": {},
+  "version": "1.0.1",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
     {
       "label": "Wayfinder - Actions",
       "entity": "Item",
       "name": "wayfinder-actions",
       "path": "./packs/wayfinder-actions.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Backgrounds",
@@ -19,15 +29,17 @@
       "name": "wayfinder-backgrounds",
       "path": "./packs/wayfinder-backgrounds.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
-  	{
+    {
       "label": "Wayfinder - Bestiary",
       "entity": "Actor",
       "name": "wayfinder-bestiary",
       "path": "./packs/wayfinder-bestiary.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Class Features",
@@ -35,7 +47,8 @@
       "name": "wayfinder-class-features",
       "path": "./packs/wayfinder-class-features.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Effects",
@@ -43,7 +56,8 @@
       "name": "wayfinder-effects",
       "path": "./packs/wayfinder-effects.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Feats",
@@ -51,7 +65,8 @@
       "name": "wayfinder-feats",
       "path": "./packs/wayfinder-feats.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Equipment",
@@ -59,7 +74,8 @@
       "name": "wayfinder-equipment",
       "path": "./packs/wayfinder-equipment.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Relic Gifts",
@@ -67,7 +83,8 @@
       "name": "wayfinder-relic-gifts",
       "path": "./packs/wayfinder-relic-gifts.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Spells",
@@ -75,7 +92,8 @@
       "name": "wayfinder-spells",
       "path": "./packs/wayfinder-spells.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Maps",
@@ -83,7 +101,8 @@
       "name": "wayfinder-maps",
       "path": "./packs/wayfinder-maps.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     },
     {
       "label": "Wayfinder - Race for the Ettercap Crown",
@@ -91,14 +110,19 @@
       "name": "wayfinder-race-for-the-ettercap-crown",
       "path": "./packs/wayfinder-race-for-the-ettercap-crown.db",
       "system": "pf2e",
-      "package": "pf2e-wayfinder"
+      "package": "pf2e-wayfinder",
+      "private": false
     }
-    ],
-    "system": ["pf2e"],
-    "minimumCoreVersion": "0.8.8",
-    "compatibleCoreVersion": "0.8.8",
-    "minimumSystemVersion": "2.11",
-    "url": "https://github.com/TikaelSol/PF2e-Wayfinder",
-    "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Wayfinder/master/module.json",
-    "download": "https://github.com/TikaelSol/PF2e-Wayfinder/archive/refs/heads/main.zip"
+  ],
+  "system": [
+    "pf2e"
+  ],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Wayfinder/master/module.json",
+  "download": "https://github.com/TikaelSol/PF2e-Wayfinder/archive/refs/heads/main.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "minimumSystemVersion": "2.11",
+  "library": false
 }
