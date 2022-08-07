@@ -6,9 +6,9 @@
   "authors": [],
   "url": "https://github.com/TikaelSol/PF2e-Wayfinder",
   "flags": {},
-  "version": "1.0.2",
-  "minimumCoreVersion": "0.8.9",
-  "compatibleCoreVersion": "0.8.9",
+  "version": "1.0.3",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -21,7 +21,8 @@
       "path": "./packs/wayfinder-actions.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Wayfinder - Backgrounds",
@@ -30,7 +31,8 @@
       "path": "./packs/wayfinder-backgrounds.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Wayfinder - Bestiary",
@@ -39,7 +41,8 @@
       "path": "./packs/wayfinder-bestiary.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Actor"
     },
     {
       "label": "Wayfinder - Class Features",
@@ -48,7 +51,8 @@
       "path": "./packs/wayfinder-class-features.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Wayfinder - Effects",
@@ -57,7 +61,8 @@
       "path": "./packs/wayfinder-effects.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Wayfinder - Feats",
@@ -66,7 +71,8 @@
       "path": "./packs/wayfinder-feats.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Wayfinder - Equipment",
@@ -75,7 +81,8 @@
       "path": "./packs/wayfinder-equipment.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Wayfinder - Relic Gifts",
@@ -84,7 +91,8 @@
       "path": "./packs/wayfinder-relic-gifts.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Wayfinder - Spells",
@@ -93,7 +101,8 @@
       "path": "./packs/wayfinder-spells.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Wayfinder - Maps",
@@ -102,7 +111,8 @@
       "path": "./packs/wayfinder-maps.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "Scene"
     },
     {
       "label": "Wayfinder - Race for the Ettercap Crown",
@@ -111,7 +121,8 @@
       "path": "./packs/wayfinder-race-for-the-ettercap-crown.db",
       "system": "pf2e",
       "package": "pf2e-wayfinder",
-      "private": false
+      "private": false,
+      "type": "JournalEntry"
     }
   ],
   "system": [
@@ -123,6 +134,6 @@
   "download": "https://github.com/TikaelSol/PF2e-Wayfinder/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false,
-  "minimumSystemVersion": "2.19.0",
+  "minimumSystemVersion": "3.13.5",
   "library": false
 }
